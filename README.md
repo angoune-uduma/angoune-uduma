@@ -92,6 +92,6 @@
 
 ## 🔗 Retrouve-moi ici
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/idika-lionnel-angoune-uduma-5a282)
+- 💼 [LinkedIn](https://www.linkedin.com/in/idika-lionnel-angoune-uduma-5a2820265/)
 - 📫 Email : alexidika1@gmail.com
 - 📱 Téléphone : +33 7 83 25 11 10
