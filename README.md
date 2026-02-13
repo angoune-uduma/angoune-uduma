@@ -36,6 +36,7 @@
 - 🎓 Bachelor 1 Informatique – EPSI Paris (2022 - 2023)
 - 🎓 Bachelor 2 Informatique – YNOV Lille (2023 - 2024)
 - 🎓 Bachelor 3 Informatique – SUPINFO Lille (2024 - 2025)
+- 🎓 Master 1 Cybersecurité – SUPINFO Lille (2025 - 2026)
 
 ---
 
