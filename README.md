@@ -123,5 +123,5 @@ Actuellement en **Master 1 Cybersécurité**, je m'intéresse particulièrement 
 ## 📬 Contact
 
 - 💼 LinkedIn : https://www.linkedin.com/in/idika-lionnel-angoune-uduma-5a2820265/  
-- 📧 Email : alexidika1@gmail.com  
+- 📧 Email : idika.lionnel@gmail.com  
 - 📱 07 83 25 11 10  
