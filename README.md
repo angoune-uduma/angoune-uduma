@@ -1,8 +1,21 @@
+# 👋 Salut, moi c’est Idika Lionnel Angoune Uduma
 
-# 👋 Salut, moi c'est **Idika Lionnel Angoune Uduma**
-### 🎯 Développeur Fullstack | Frontend & Backend
+🔗 **Portfolio :**  
+👉 https://angoune-uduma.github.io/portfolio-3D/
 
-> Passionné par le développement web, l’architecture logicielle et le cloud, je suis un étudiant en informatique curieux, rigoureux et toujours prêt à apprendre. J’aime construire des projets concrets qui ont de l’impact. 🚀
+---
+
+## 🎯 Développeur Fullstack orienté Cybersécurité & DevSecOps
+
+Développeur Fullstack passionné par la conception logicielle et la sécurisation applicative.  
+Actuellement en **Master 1 Cybersécurité**, je m'intéresse particulièrement à :
+
+- L’architecture sécurisée
+- La protection des API
+- Le DevSecOps
+- La conteneurisation & le cloud
+
+🎯 Mon objectif : construire des applications performantes, scalables et sécurisées by design.
 
 ---
 
@@ -11,88 +24,93 @@
 ### 👨‍💻 Frontend
 - HTML, CSS, JavaScript
 - React.js
-- Android (Java/Kotlin)
+- Vue.js
+- Android (Java / Kotlin)
 
 ### ⚙️ Backend
 - Node.js, Express.js
-- PHP, C#/ASP.NET
+- PHP, Symfony
+- C# / ASP.NET
 
-### 🗃️ Bases de données
-- MongoDB, MySQL, NoSQL
-
-### ☁️ DevOps & Cloud
+### 🔐 Cyber & DevSecOps
+- Sécurisation API (JWT, gestion des rôles)
+- OWASP (XSS, CSRF)
+- Audit de code
+- CI/CD (GitHub Actions)
 - Docker
-- Google Cloud Platform (GCP)
+- Gestion des secrets
+
+### ☁️ Cloud
+- Google Cloud Platform
 - Microsoft Azure (AI Fundamentals)
 
-### 🖥️ Réseau & Système
-- Linux (LPIC-2), notions de réseau (CCNA v7)
+### 🗃️ Bases de données
+- MongoDB
+- MySQL
+- NoSQL
 
 ---
 
-## 📚 Parcours académique
+## 🛠️ Projets
 
-- 🎓 Baccalauréat Général – École Internationale Atlantique, Lomé (2021 - 2022)
-- 🎓 Bachelor 1 Informatique – EPSI Paris (2022 - 2023)
-- 🎓 Bachelor 2 Informatique – YNOV Lille (2023 - 2024)
-- 🎓 Bachelor 3 Informatique – SUPINFO Lille (2024 - 2025)
-- 🎓 Master 1 Cybersecurité – SUPINFO Lille (2025 - 2026)
+### 🛡️ Audit & Sécurisation Web
+- Protection contre XSS / CSRF
+- Configuration HTTPS
+- Gestion des droits d’accès
+- Sécurisation des erreurs
 
----
+### 🔐 API REST Sécurisée (App Mobile)
+- Express.js, NoSQL
+- Architecture MVC
+- Authentification JWT
+- Validation des données
+- Protection des routes sensibles
 
-## 🛠️ Projets réalisés
+### ⚙️ Déploiement CI/CD Node.js
+- Docker
+- GitHub Actions
+- Google Cloud
+- Build, tests automatisés et déploiement
 
-- **🌐 Application de gestion de projets collaboratifs**  
-  `React.js, Node.js, MongoDB, Docker`  
-  Authentification JWT, rôles utilisateurs, gestion des tâches, déploiement containerisé
-
-- **🔐 API REST sécurisée pour app mobile**  
-  `Express.js, NoSQL`  
-  Architecture MVC, authentification par token, validation
-
-- **⚙️ Déploiement CI/CD avec Docker & GCP**  
-  `GitHub Actions, Docker, Google Cloud`  
-  Build, tests automatisés et déploiement
-
-- **🛡️ Sécurisation d'application web**  
-  Protection XSS/CSRF, gestion des droits, HTTPS, audits
+### 🌐 Application de gestion collaborative
+- React.js, Node.js, MongoDB
+- Authentification et rôles
+- Dashboard dynamique
+- Architecture fullstack sécurisée
 
 ---
 
 ## 💼 Expériences professionnelles
 
-### Stagiaire Développement Web & SEO — *Africa by Art (Paris)*
+### Stagiaire Développement Web & SEO — Africa by Art (Paris)
 *Juillet - Août 2023*
 - Développement de sites web
 - Optimisation SEO
 - Intégration de fonctionnalités interactives
 
-### Stagiaire Développement Web — *Baïfall Dream (Paris)*
+### Stagiaire Développement Web — Baïfall Dream (Paris)
 *Juillet - Août 2024*
-- Création de sites responsifs (HTML, CSS, JS)
+- Création de sites responsifs
 - Backend Node.js
-- Collaboration sur le référencement SEO
+- Optimisation SEO
+
+---
+
+## 🎓 Formation
+
+- Master 1 Informatique – Cybersécurité (2025 - 2026)
+- Bachelor Informatique
 
 ---
 
 ## 🌍 Langues
-
-- 🇬🇧 Anglais : Natif
-- 🇫🇷 Français : Courant
-
----
-
-## 🎮 Centres d’intérêt
-
-- ⚽ Foot
-- 🥊 Boxe
-- 🎧 Musique
-- 🎮 FIFA
+- Anglais : Natif
+- Français : Courant
 
 ---
 
-## 🔗 Retrouve-moi ici
+## 📬 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/idika-lionnel-angoune-uduma-5a2820265/)
-- 📫 Email : alexidika1@gmail.com
-- 📱 Téléphone : +33 7 83 25 11 10
+- 💼 LinkedIn : https://www.linkedin.com/in/idika-lionnel-angoune-uduma-5a2820265/
+- 📧 Email : alexidika1@gmail.com
+- 📱 07 83 25 11 10
